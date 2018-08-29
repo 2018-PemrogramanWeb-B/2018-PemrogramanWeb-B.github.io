@@ -1,9 +1,9 @@
-# Silabus Struktur Data
+# Silabus Pemrograman Web
 
 * **Mata Kuliah:** Pemrograman Web
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
-* **Asisten:** John Harison(john.harison99@gmail.com)
+* **Asisten:** John Harison (john.harison99@gmail.com)
 * **Pengurus Kelas:** 
    * **Ketua**: 
    * **Wakil**: 
@@ -35,6 +35,9 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 
 ### Pertemuan 3
 * CSS
+
+### Pertemuan 4
+* JS
 
 ## Tugas
 ### Tugas 1 (individu)
