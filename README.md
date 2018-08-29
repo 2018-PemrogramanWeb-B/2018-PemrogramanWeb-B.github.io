@@ -3,13 +3,13 @@
 * **Mata Kuliah:** Pemrograman Web
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
-* **Asisten:** Djohan Prabowo (djohan.prabowo1927@gmail.com)
+* **Asisten:** John (djohan.prabowo1927@gmail.com)
 * **Pengurus Kelas:** 
-   * **Ketua**: Mhd. Fadly Hasan 5111740000078
-   * **Wakil**: RM Ivan Indrakusuma 5111740000060
+   * **Ketua**: 
+   * **Wakil**: 
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
-   * Lihat [issues](https://github.com/2018-PemrogramanWeb-D/syllabus/issues) yang ada atau buat _issue_ baru.
+   * Lihat [issues](https://github.com/2018-PemrogramanWeb-D/2018-PemrogramanWeb-B.github.io/issues) yang ada atau buat _issue_ baru.
    * Melalui grup LINE.
    * Kirim email ke dosen atau asisten untuk diskusi/konsultasi.
 
@@ -28,7 +28,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Peraturan kelas
 * Referensi yang digunakan
 * Register Github, CodeCademy, SekolahKoding
-* Ujicoba upload tugas ke Github
+* Mempelajari materi yang ada di CodeCademy dan SekolahKoding
 
 ### Pertemuan 2
 * GIT, HTML
@@ -38,7 +38,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 
 ## Tugas
 ### Tugas 1
-* Deadline: 04-09-2018
+* Deadline: 03-09-2018
 * Lakukan ujicoba pull, add, commit, push ke GIT
 * Buat 1 buah halaman HTML yang berisi _link, image, table, form_
 
@@ -52,10 +52,10 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.codecademy.com/learn/paths/web-development
 
 ### Tugas 2
-* Deadline: 11-09-2018
+* Deadline: 10-09-2018
 
 ### Tugas 3
-* Deadline: 18-09-2018
+* Deadline: 17-09-2018
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
