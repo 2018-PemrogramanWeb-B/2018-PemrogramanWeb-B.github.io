@@ -3,13 +3,13 @@
 * **Mata Kuliah:** Pemrograman Web
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
-* **Asisten:** John (djohan.prabowo1927@gmail.com)
+* **Asisten:** John Harison(john.harison99@gmail.com)
 * **Pengurus Kelas:** 
    * **Ketua**: 
    * **Wakil**: 
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
-   * Lihat [issues](https://github.com/2018-PemrogramanWeb-D/2018-PemrogramanWeb-B.github.io/issues) yang ada atau buat _issue_ baru.
+   * Lihat [_issues_](https://github.com/2018-PemrogramanWeb-B/2018-PemrogramanWeb-B.github.io/issues) yang ada atau buat _issue_ baru.
    * Melalui grup LINE.
    * Kirim email ke dosen atau asisten untuk diskusi/konsultasi.
 
@@ -20,7 +20,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * CSS
 * JS
 * PHP
-* etc
+* dll
 
 ## Materi Kuliah
 ### Pertemuan 1
@@ -34,10 +34,10 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * GIT, HTML
 
 ### Pertemuan 3
-* ...
+* CSS
 
 ## Tugas
-### Tugas 1
+### Tugas 1 (individu)
 * Deadline: 03-09-2018
 * Lakukan ujicoba pull, add, commit, push ke GIT
 * Buat 1 buah halaman HTML yang berisi _link, image, table, form_
@@ -51,8 +51,14 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.sekolahkoding.com/track/mulai-belajar-website-frontend
   * https://www.codecademy.com/learn/paths/web-development
 
-### Tugas 2
+### Tugas 2 (kelompok)
 * Deadline: 10-09-2018
+* Lakukan pull, add, commit, push secara bersamaan semua anggota kelompok ke GIT
+* Lakukan ujicoba merge, branch, fork, pull request GIT
+* Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
+* 
+
+* Bacaan Wajib:
 
 ### Tugas 3
 * Deadline: 17-09-2018
