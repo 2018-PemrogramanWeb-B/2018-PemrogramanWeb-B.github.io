@@ -1,12 +1,12 @@
 # Silabus Pemrograman Web
 
-* **Mata Kuliah:** Pemrograman Web
+* **Mata Kuliah:** IF184504 Pemrograman Web
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
 * **Asisten:** John Harison (john.harison99@gmail.com)
 * **Pengurus Kelas:** 
-   * **Ketua**: 
-   * **Wakil**: 
+   * **Ketua**: Bintang Nuralamsyah 05111740000002
+   * **Wakil**: Ahmad Naufal Hakim Lubis 05111740000138
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
    * Lihat [_issues_](https://github.com/2018-PemrogramanWeb-B/2018-PemrogramanWeb-B.github.io/issues) yang ada atau buat _issue_ baru.
@@ -31,10 +31,11 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Mempelajari materi yang ada di CodeCademy dan SekolahKoding
 
 ### Pertemuan 2
-* GIT, HTML
+* GIT, HTML, W3C Validator
+* Commit awal tugas2 ke Github
 
 ### Pertemuan 3
-* CSS
+* CSS, CDN
 
 ### Pertemuan 4
 * JS
@@ -55,19 +56,22 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.codecademy.com/learn/paths/web-development
 
 ### Tugas 2 (kelompok)
-* Deadline: 10-09-2018
+* Deadline: 17-09-2018
+* Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
+* Lakukan validasi pada HTML dan CSS yang telah dibuat
 * Lakukan pull, add, commit, push secara bersamaan semua anggota kelompok ke GIT
 * Lakukan ujicoba merge, branch, fork, pull request GIT
-* Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
-* 
+* Pelajari mengenai CDN
 
 * Bacaan Wajib:
+  * ...
 
 ### Tugas 3
-* Deadline: 17-09-2018
+* Deadline: 24-09-2018
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
+* Pada setiap pertemuan akan diberikan tugas.
 * Semua tindakan plagiarisme akan mendapat hukuman berupa nilai 0.
 * Tidak diperbolehkan menggunakan semua jenis alat elektronik (ponsel, laptop, dll) di kelas kecuali mendapat ijin dari dosen.
 
