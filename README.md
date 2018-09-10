@@ -31,10 +31,11 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Mempelajari materi yang ada di CodeCademy dan SekolahKoding
 
 ### Pertemuan 2
-* GIT, HTML, W3C Validator
-* Commit awal tugas2 ke Github
+* Libur
 
 ### Pertemuan 3
+* GIT, HTML, W3C Validator
+* Commit awal tugas2 ke Github
 * CSS, CDN
 
 ### Pertemuan 4
@@ -55,7 +56,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.sekolahkoding.com/track/mulai-belajar-website-frontend
   * https://www.codecademy.com/learn/paths/web-development
 
-### Tugas 2 (kelompok)
+### Tugas 2 (kelompok) https://classroom.github.com/g/caQ9nF5V
 * Deadline: 17-09-2018
 * Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
 * Lakukan validasi pada HTML dan CSS yang telah dibuat
