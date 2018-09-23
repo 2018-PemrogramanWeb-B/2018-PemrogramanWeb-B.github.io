@@ -82,9 +82,6 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Lakukan ujicoba merge, branch, fork, pull request GIT
 * Pelajari mengenai CDN
 
-* Bacaan Wajib:
-  * ...
-
 ### Tugas 3 (individu) https://classroom.github.com/a/LjFvRZx6
 * Deadline: 24-09-2018
 * Buat 1 buah file HTML yang mengimplementasikan:
@@ -99,6 +96,15 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.w3schools.com/jquery/
   * https://www.w3schools.com/jquery/jquery_filters.asp
   * https://learn.jquery.com
+
+### Tugas 4 (individu) 
+* Deadline: 01-10-2018
+* Buat login form yang mengimplementasikan
+  * Form action
+  * Form validation
+  * Session
+  * Redirect kembali ke login form jika password salah
+  * Tampilkan ucapan selamat pagi/siang/sore/malam sesuai waktu server apabila password benar
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
