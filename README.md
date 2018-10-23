@@ -124,11 +124,11 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * Delete data di MySQL
   
 ### Tugas 6 (kelompok) https://classroom.github.com/g/hXq1gu8s
-* Deadline: -10-2018
+* Deadline: 23-10-2018
 * Proposal FP
 
 ### Tugas 7 (kelompok) https://classroom.github.com/g/rXlkE2AT
-* Deadline: -10-2018
+* Deadline: 23-10-2018
 * Progress FP 1
 
 ### Tugas 8 (kelompok) 
