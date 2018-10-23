@@ -123,6 +123,23 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * Update data di MySQL
   * Delete data di MySQL
   
+### Tugas 6 (kelompok) https://classroom.github.com/g/hXq1gu8s
+* Deadline: -10-2018
+* Proposal FP
+
+### Tugas 7 (kelompok) https://classroom.github.com/g/rXlkE2AT
+* Deadline: -10-2018
+* Progress FP 1
+
+### Tugas 8 (kelompok) 
+* Deadline: -10-2018
+* Progress FP 2
+
+### Tugas 9 (kelompok) 
+* Deadline: -10-2018
+* Progress FP 2
+
+
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
 * Pada setiap pertemuan akan diberikan tugas.
